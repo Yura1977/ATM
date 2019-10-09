@@ -20,5 +20,3 @@ spring:
 logging:
   level:
     org.springframework: INFO
-
-listOfBills: 100,200,500
